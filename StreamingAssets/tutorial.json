@@ -50,56 +50,26 @@
    "holdDuration": 0.0
   },
   {
-   "beat": 45.8333,
-   "lane": -1,
-   "type": "pink",
-   "holdDuration": 0.0
-  },
-  {
    "beat": 46.8333,
    "lane": 0,
    "type": "pink",
    "holdDuration": 0.0
   },
   {
-   "beat": 47.8333,
-   "lane": 1,
-   "type": "pink",
-   "holdDuration": 0.0
-  },
-  {
    "beat": 48.8333,
-   "lane": -1,
-   "type": "pink",
-   "holdDuration": 0.0
-  },
-  {
-   "beat": 49.8333,
-   "lane": -1,
+   "lane": 0,
    "type": "pink",
    "holdDuration": 0.0
   },
   {
    "beat": 50.8333,
-   "lane": 1,
-   "type": "pink",
-   "holdDuration": 0.0
-  },
-  {
-   "beat": 51.8333,
-   "lane": 1,
+   "lane": 0,
    "type": "pink",
    "holdDuration": 0.0
   },
   {
    "beat": 52.8333,
-   "lane": 0,
-   "type": "pink",
-   "holdDuration": 0.0
-  },
-  {
-   "beat": 53.8333,
-   "lane": 0,
+   "lane": -1,
    "type": "pink",
    "holdDuration": 0.0
   },
@@ -110,20 +80,8 @@
    "holdDuration": 0.0
   },
   {
-   "beat": 55.8333,
-   "lane": 1,
-   "type": "pink",
-   "holdDuration": 0.0
-  },
-  {
    "beat": 56.8333,
-   "lane": 0,
-   "type": "pink",
-   "holdDuration": 0.0
-  },
-  {
-   "beat": 57.8333,
-   "lane": -1,
+   "lane": 1,
    "type": "pink",
    "holdDuration": 0.0
   },
@@ -134,106 +92,64 @@
    "holdDuration": 0.0
   },
   {
-   "beat": 59.8333,
-   "lane": 0,
-   "type": "pink",
-   "holdDuration": 0.0
-  },
-  {
    "beat": 60.8333,
    "lane": 0,
    "type": "blue",
-   "holdDuration": 0.6429
-  },
-  {
-   "beat": 62.8333,
-   "lane": -1,
-   "type": "pink",
-   "holdDuration": 0.0
-  },
-  {
-   "beat": 63.8333,
-   "lane": 1,
-   "type": "pink",
-   "holdDuration": 0.0
+   "holdDuration": 0.8571
   },
   {
    "beat": 64.8333,
-   "lane": -1,
-   "type": "blue",
-   "holdDuration": 0.6429
-  },
-  {
-   "beat": 66.8333,
    "lane": 0,
    "type": "pink",
    "holdDuration": 0.0
   },
   {
-   "beat": 67.8333,
-   "lane": 0,
+   "beat": 66.8333,
+   "lane": -1,
    "type": "pink",
    "holdDuration": 0.0
   },
   {
    "beat": 68.8333,
-   "lane": 1,
-   "type": "pink",
-   "holdDuration": 0.0
-  },
-  {
-   "beat": 69.3333,
-   "lane": 1,
-   "type": "pink",
-   "holdDuration": 0.0
-  },
-  {
-   "beat": 69.8333,
    "lane": 0,
-   "type": "pink",
-   "holdDuration": 0.0
-  },
-  {
-   "beat": 70.3333,
-   "lane": -1,
    "type": "pink",
    "holdDuration": 0.0
   },
   {
    "beat": 70.8333,
-   "lane": -1,
-   "type": "pink",
-   "holdDuration": 0.0
-  },
-  {
-   "beat": 71.3333,
-   "lane": 0,
-   "type": "pink",
-   "holdDuration": 0.0
-  },
-  {
-   "beat": 71.8333,
    "lane": 1,
    "type": "pink",
    "holdDuration": 0.0
   },
   {
-   "beat": 72.3333,
+   "beat": 72.8333,
    "lane": 0,
    "type": "pink",
    "holdDuration": 0.0
   },
   {
    "beat": 73.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 76.8333,
    "lane": -1,
    "type": "gold",
    "holdDuration": 0.0
   },
   {
-   "beat": 74.8333,
+   "beat": 79.8333,
    "lane": 1,
    "type": "gold",
    "holdDuration": 0.0
+  },
+  {
+   "beat": 82.8333,
+   "lane": 0,
+   "type": "blue",
+   "holdDuration": 0.8571
   }
  ]
 }
