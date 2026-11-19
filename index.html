@@ -55,9 +55,9 @@
     var buildUrl = "Build";
     var config = {
       arguments: [],
-      dataUrl: buildUrl + "/d3c4cbae9a6b673903693fc292bd3452.data.unityweb",
+      dataUrl: buildUrl + "/6fcd85f1bed9990e74dad77fe6c0e157.data.unityweb",
       frameworkUrl: buildUrl + "/2124a69b9035080cc537eeb25251bd4d.framework.js.unityweb",
-      codeUrl: buildUrl + "/150f744771c09f365dc77c0110566e54.wasm.unityweb",
+      codeUrl: buildUrl + "/ff2d2453410a96d6d9085885cbc7fd24.wasm.unityweb",
       streamingAssetsUrl: "StreamingAssets",
       companyName: "DefaultCompany",
       productName: "My project (5)",
@@ -66,7 +66,7 @@
       devicePixelRatio: Math.min(window.devicePixelRatio || 1, (Math.max(screen.width, screen.height) > 1100 ? 1.5 : 2)),   // 大屏（iPad）降一点分辨率，省显存
     };
     var script = document.createElement("script");
-    script.src = buildUrl + "/9010d132ff6b3231198ac13859bad116.loader.js";
+    script.src = buildUrl + "/f3d17dc11bde43d2d78401c7b52d0319.loader.js";
     script.onload = function () {
       createUnityInstance(canvas, config, function (p) {
         document.querySelector("#fill").style.width = (100 * p) + "%";
