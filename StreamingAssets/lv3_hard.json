@@ -1,0 +1,266 @@
+{
+ "bpm": 140.0,
+ "startTime": 105.143,
+ "endTime": 119.386,
+ "travelTime": 2.4,
+ "notes": [
+  {
+   "beat": 248.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 249.3333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 249.8333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 250.3333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 250.8333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 251.3333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 252.3333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 252.5833,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 252.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 253.0833,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 253.3333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 253.5833,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 253.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 254.8333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 255.3333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 255.8333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 256.3333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 256.8333,
+   "lane": 0,
+   "type": "blue",
+   "holdDuration": 1.0714
+  },
+  {
+   "beat": 259.8333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 260.3333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 260.8333,
+   "lane": -1,
+   "type": "blue",
+   "holdDuration": 0.75
+  },
+  {
+   "beat": 262.8333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 263.0833,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 263.3333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 263.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 264.0833,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 264.3333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 264.8333,
+   "lane": 1,
+   "type": "blue",
+   "holdDuration": 0.6429
+  },
+  {
+   "beat": 266.8333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 267.3333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 267.8333,
+   "lane": 0,
+   "type": "blue",
+   "holdDuration": 0.3214
+  },
+  {
+   "beat": 268.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 269.3333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 269.8333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 270.0833,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 270.3333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 270.8333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 271.0833,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 271.3333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 271.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 272.3333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 272.8333,
+   "lane": -1,
+   "type": "gold",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 274.8333,
+   "lane": 1,
+   "type": "gold",
+   "holdDuration": 0.0
+  }
+ ]
+}

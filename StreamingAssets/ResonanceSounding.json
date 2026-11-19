@@ -1,0 +1,576 @@
+{
+    "bpm": 138,
+    "offset": 0,
+    "notes": [
+        {
+            "beat": 26.1027,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 32.5197,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 38.3640,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 44.8224,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 51.9800,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 58.7144,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 65.0624,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 71.4104,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 78.2667,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 84.4560,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 91.0800,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 97.5200,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 104.0520,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 110.3080,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 116.9757,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 120.2187,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 123.3904,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 126.4080,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 128.1560,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 129.1680,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 130.1064,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 133.2160,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 136.6200,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 139.6307,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 143.1037,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 146.2984,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 149.6840,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 152.6947,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 156.0987,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 162.3800,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 165.7840,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 169.0477,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 172.2907,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 175.5360,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 178.7077,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 181.9507,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 185.1224,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 188.2987,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 191.6107,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 194.9227,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 198.0944,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 201.4547,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 204.6517,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 207.9384,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 209.4104,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 210.7467,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 214.4520,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 221.1427,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 227.3757,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 233.8640,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 240.3960,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 246.9717,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 253.3197,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 259.8517,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 266.2480,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 272.7800,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 279.2637,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 282.5504,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 285.7520,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 292.3277,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 298.7677,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 305.3227,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 308.6784,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 311.7627,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 318.2280,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 324.8037,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 331.2920,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 334.5304,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 337.7757,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 344.1720,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 350.6120,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 353.9240,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 357.3717,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 363.7427,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 367.0064,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 370.2264,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 376.5744,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 379.8864,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 382.9547,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 389.7797,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 393.0917,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 396.1957,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 402.7277,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 406.0907,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 409.2344,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 415.7227,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 418.8760,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 422.0040,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 428.5797,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 431.8664,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 435.3187,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 441.6920,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 444.9304,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 448.1504,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 451.6027,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        }
+    ]
+}

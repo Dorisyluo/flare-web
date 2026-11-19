@@ -1,0 +1,1379 @@
+{
+    "bpm": 138.0,
+    "notes": [
+        {
+            "beat": 4.415999889373779,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 7.5874128341674809,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 10.697587966918946,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 13.682701110839844,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 16.994701385498048,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 20.214412689208986,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 23.22798728942871,
+            "lane": 0,
+            "type": "blue",
+            "holdDuration": 1.3175417184829713
+        },
+        {
+            "beat": 26.772001266479493,
+            "lane": 0,
+            "type": "purple",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 27.523334503173829,
+            "lane": 0,
+            "type": "purple",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 28.24428939819336,
+            "lane": 0,
+            "type": "purple",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 29.023988723754884,
+            "lane": 0,
+            "type": "purple",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 30.61098861694336,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 32.88798904418945,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 36.15599822998047,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 39.09971237182617,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 42.20298767089844,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 45.330413818359378,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 48.75971603393555,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 51.51971435546875,
+            "lane": 0,
+            "type": "blue",
+            "holdDuration": 1.5834577083587647
+        },
+        {
+            "beat": 55.56829071044922,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 56.32901382446289,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 57.083702087402347,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 57.52530288696289,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 57.91170120239258,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 58.62929916381836,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 59.40641403198242,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 60.009300231933597,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 60.41899108886719,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 60.97098922729492,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 61.64029312133789,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 62.327701568603519,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 63.11171340942383,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 63.546417236328128,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 64.00698852539063,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 64.83240509033203,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 65.63711547851563,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 66.37541198730469,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 66.76439666748047,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 67.16028594970703,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 67.89600372314453,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 68.67570495605469,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 69.43729400634766,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 69.80298614501953,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 70.26528930664063,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 71.14159393310547,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 71.87730407714844,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 72.65441131591797,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 73.022705078125,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 73.31940460205078,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 74.02579498291016,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 74.76150512695313,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 75.6240005493164,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 76.05180358886719,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 76.35971069335938,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 76.79441833496094,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 77.48959350585938,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 78.14940643310547,
+            "lane": 0,
+            "type": "blue",
+            "holdDuration": 1.5219993591308594
+        },
+        {
+            "beat": 82.08930206298828,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 83.87899017333985,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 85.37628936767578,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 87.05729675292969,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 88.41229248046875,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 90.04241943359375,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 91.67598724365235,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 93.31301879882813,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 94.80341339111328,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 96.4413070678711,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 97.95498657226563,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 99.6109848022461,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 101.01341247558594,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 102.57798767089844,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 104.99500274658203,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 105.87129974365235,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 112.3320083618164,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 113.55330657958985,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 118.53941345214844,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 119.80901336669922,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 124.96158599853516,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 126.13201141357422,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 127.88028717041016,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 129.1429901123047,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 131.16641235351563,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 134.34559631347657,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 134.80531311035157,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 136.87098693847657,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 137.42298889160157,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 139.14797973632813,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 139.95701599121095,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 140.75999450683595,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 141.6544189453125,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 142.50830078125,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 143.24400329589845,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 144.0469970703125,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 146.04798889160157,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 146.50770568847657,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 146.99070739746095,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 149.0650177001953,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 149.543701171875,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 150.30270385742188,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 151.2480010986328,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 152.0277099609375,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 152.6944122314453,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 153.45860290527345,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 154.19430541992188,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 154.93002319335938,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 155.80889892578126,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 156.54031372070313,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 157.5451202392578,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 158.74398803710938,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 159.1855926513672,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 159.98599243164063,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 160.9330291748047,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 161.68511962890626,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 162.4234161376953,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 163.3920135498047,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 164.12771606445313,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 165.0229949951172,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 165.69229125976563,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 166.49441528320313,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 167.11541748046876,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 167.94859313964845,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 168.26771545410157,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 168.95599365234376,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 169.32601928710938,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 169.8090057373047,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 170.4826202392578,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 171.4788055419922,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 171.8376007080078,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 172.58970642089845,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 173.63851928710938,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 174.5725860595703,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 174.84860229492188,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 175.26258850097657,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 176.02159118652345,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 176.91342163085938,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 177.6750030517578,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 178.02000427246095,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 178.29600524902345,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 178.6479034423828,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 179.45779418945313,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 179.7958984375,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 180.18919372558595,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 181.0534210205078,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 181.85899353027345,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 182.20399475097657,
+            "lane": 0,
+            "type": "blue",
+            "holdDuration": 1.0
+        },
+        {
+            "beat": 184.52670288085938,
+            "lane": 0,
+            "type": "purple",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 186.04901123046876,
+            "lane": 0,
+            "type": "purple",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 187.53941345214845,
+            "lane": 0,
+            "type": "purple",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 188.7840118408203,
+            "lane": 0,
+            "type": "purple",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 190.09759521484376,
+            "lane": 0,
+            "type": "purple",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 191.5716094970703,
+            "lane": 0,
+            "type": "purple",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 193.05941772460938,
+            "lane": 0,
+            "type": "purple",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 194.71542358398438,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 195.4744110107422,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 196.14370727539063,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 196.8544158935547,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 197.45730590820313,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 198.2602996826172,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 198.99600219726563,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 199.58941650390626,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 200.359619140625,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 201.14620971679688,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 201.90090942382813,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 202.659912109375,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 202.98680114746095,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 203.46461486816407,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 204.20120239257813,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 205.05162048339845,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 205.74679565429688,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 206.04090881347657,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 206.51441955566407,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 207.36570739746095,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 208.13592529296876,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 209.40811157226563,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 209.70220947265626,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 210.1627960205078,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 210.83900451660157,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 211.5565948486328,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 212.26901245117188,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 212.6123046875,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 213.138427734375,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 213.8974151611328,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 214.73748779296876,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 215.401611328125,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 215.7034912109375,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 216.30552673339845,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 216.96792602539063,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 218.07020568847657,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 218.7230987548828,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 218.94821166992188,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 219.42691040039063,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 220.2868194580078,
+            "lane": 0,
+            "type": "blue",
+            "holdDuration": 1.0
+        },
+        {
+            "beat": 223.42459106445313,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 224.37161254882813,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 226.6029052734375,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 227.59909057617188,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 228.2200927734375,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 228.84109497070313,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 229.90542602539063,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 230.55230712890626,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 231.03271484375,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 231.49241638183595,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 232.85861206054688,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 233.66419982910157,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 233.98590087890626,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 234.45079040527345,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 236.345703125,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 237.1021270751953,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 237.49542236328126,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 237.70501708984376,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 239.34031677246095,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 239.52403259277345,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 240.33131408691407,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 240.68148803710938,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 241.48622131347657,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 242.45220947265626,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 243.1120147705078,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 243.4708251953125,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 243.905517578125,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 245.79611206054688,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 246.54132080078126,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 246.9027099609375,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 247.11228942871095,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 248.74501037597657,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 248.92698669433595,
+            "lane": -1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 249.73171997070313,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 250.0904998779297,
+            "lane": 1,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 250.88401794433595,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        },
+        {
+            "beat": 251.84742736816407,
+            "lane": 0,
+            "type": "pink",
+            "holdDuration": 0.0
+        }
+    ]
+}

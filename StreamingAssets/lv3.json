@@ -1,0 +1,1373 @@
+{
+ "bpm": 140.0,
+ "notes": [
+  {
+   "beat": 18.583301544189453,
+   "lane": 0,
+   "type": "blue",
+   "holdDuration": 1.2857146263122559
+  },
+  {
+   "beat": 23.083301544189453,
+   "lane": -1,
+   "type": "blue",
+   "holdDuration": 1.1785717010498047
+  },
+  {
+   "beat": 33.83330154418945,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 35.08330154418945,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 35.83330154418945,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 36.83330154418945,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 37.83330154418945,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 41.83330154418945,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 42.83330154418945,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 43.83330535888672,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 44.83330154418945,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 45.83330154418945,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 46.83330154418945,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 49.83330154418945,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 53.83330154418945,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 57.83330154418945,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 61.83330154418945,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 65.83329772949219,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 69.83329772949219,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 72.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 73.83329772949219,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 74.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 77.83329772949219,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 82.83329772949219,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 84.83329772949219,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 86.83329772949219,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 88.83329772949219,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 90.83329772949219,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 92.83329772949219,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 94.83329772949219,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 95.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 97.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 98.83329772949219,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 104.83329772949219,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 107.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 108.83329772949219,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 109.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 110.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 113.83329772949219,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 116.83329772949219,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 119.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 120.83329772949219,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 121.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 124.83329772949219,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 129.8332977294922,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 130.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 133.8332977294922,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 134.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 137.8332977294922,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 141.8332977294922,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 142.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 145.8332977294922,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 148.8332977294922,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 153.8332977294922,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 154.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 157.8332977294922,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 160.8332977294922,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 169.8332977294922,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 177.8332977294922,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 185.8332977294922,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 193.8332977294922,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 195.3333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 196.3333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 197.3333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 199.3333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 199.8333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 200.3333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 200.8333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 201.8332977294922,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 202.3333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 202.8333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 203.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 207.3333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 207.8333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 208.3333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 208.8333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 209.8332977294922,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 211.3333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 212.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 213.3333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 213.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 215.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 216.3333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 216.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 217.8332977294922,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 219.3333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 220.3333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 221.3333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 223.8333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 224.3333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 224.8333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 225.8332977294922,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 226.3333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 226.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 228.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 231.3333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 231.8333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 232.3333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 232.8333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 233.8332977294922,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 235.3333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 235.8333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 236.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 237.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 239.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 240.3333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 240.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 241.8332977294922,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 243.3333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 244.3333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 245.3333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 247.3333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 247.8333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 248.3333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 248.8333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 249.8332977294922,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 250.8333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 253.3333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 255.3333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 255.8333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 256.3333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 256.8333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 258.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 259.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 260.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 261.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 262.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 270.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 271.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 272.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 273.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 281.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 282.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 286.8333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 287.8333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 288.8333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 289.83331298828125,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 293.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 294.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 295.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 297.83331298828125,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 298.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 305.83331298828125,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 306.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 307.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 311.3333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 312.3333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 313.3333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 313.83331298828125,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 316.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 317.83331298828125,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 318.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 320.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 321.83331298828125,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 325.83331298828125,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 328.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 329.83331298828125,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 330.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 331.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 333.83331298828125,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 337.83331298828125,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 340.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 341.83331298828125,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 342.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 344.83331298828125,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 349.83331298828125,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 351.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 352.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 353.83331298828125,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 357.83331298828125,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 361.83331298828125,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 363.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 364.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 365.83331298828125,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 366.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 369.83331298828125,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 372.83331298828125,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 375.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 376.83331298828125,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 377.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 381.83331298828125,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 384.3333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 385.83331298828125,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 386.8333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 387.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 388.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 389.83331298828125,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 391.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 392.3333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 392.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 393.83331298828125,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 396.83331298828125,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 398.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 399.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 400.3333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 400.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 401.83331298828125,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 402.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 404.83331298828125,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 408.83331298828125,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 409.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 410.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 411.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 412.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 413.83331298828125,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 415.8333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 416.3333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 416.8333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 417.83331298828125,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 421.83331298828125,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 423.8333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 424.3333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 424.8333,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 425.83331298828125,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 429.83331298828125,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 431.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 432.3333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 432.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 433.83331298828125,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 434.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 437.83331298828125,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 440.83331298828125,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 444.8333,
+   "lane": 0,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 445.83331298828125,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0.0
+  },
+  {
+   "beat": 447.8333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 448.3333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 448.8333,
+   "lane": -1,
+   "type": "pink",
+   "holdDuration": 0
+  },
+  {
+   "beat": 449.83331298828125,
+   "lane": 1,
+   "type": "pink",
+   "holdDuration": 0.0
+  }
+ ]
+}
