@@ -94,7 +94,7 @@
   {
    "beat": 32.5324,
    "lane": 1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -154,7 +154,7 @@
   {
    "beat": 38.6277,
    "lane": 1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -184,7 +184,7 @@
   {
    "beat": 41.781,
    "lane": 1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -214,7 +214,7 @@
   {
    "beat": 44.886,
    "lane": 1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -244,7 +244,7 @@
   {
    "beat": 47.9401,
    "lane": 1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -274,7 +274,7 @@
   {
    "beat": 50.9804,
    "lane": 1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -310,7 +310,7 @@
   {
    "beat": 57.91170120239258,
    "lane": 1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -370,7 +370,7 @@
   {
    "beat": 64.00698852539062,
    "lane": 1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -400,7 +400,7 @@
   {
    "beat": 67.16028594970703,
    "lane": 1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -430,7 +430,7 @@
   {
    "beat": 70.26528930664062,
    "lane": 1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -460,7 +460,7 @@
   {
    "beat": 73.31940460205078,
    "lane": 1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -490,7 +490,7 @@
   {
    "beat": 76.35971069335938,
    "lane": 1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -670,7 +670,7 @@
   {
    "beat": 134.80531311035156,
    "lane": -1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -730,7 +730,7 @@
   {
    "beat": 146.04798889160156,
    "lane": 1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -748,7 +748,7 @@
   {
    "beat": 149.0650177001953,
    "lane": 1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -826,7 +826,7 @@
   {
    "beat": 159.1855926513672,
    "lane": -1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -898,7 +898,7 @@
   {
    "beat": 168.26771545410156,
    "lane": 1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -928,7 +928,7 @@
   {
    "beat": 171.4788055419922,
    "lane": 1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -958,7 +958,7 @@
   {
    "beat": 174.84860229492188,
    "lane": 1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -982,7 +982,7 @@
   {
    "beat": 177.6750030517578,
    "lane": 1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -994,7 +994,7 @@
   {
    "beat": 178.29600524902344,
    "lane": 1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -1006,7 +1006,7 @@
   {
    "beat": 179.45779418945312,
    "lane": 1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -1018,7 +1018,7 @@
   {
    "beat": 180.18919372558594,
    "lane": 1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -1162,7 +1162,7 @@
   {
    "beat": 203.46461486816406,
    "lane": -1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -1192,7 +1192,7 @@
   {
    "beat": 206.51441955566406,
    "lane": -1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -1222,7 +1222,7 @@
   {
    "beat": 210.1627960205078,
    "lane": -1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -1312,7 +1312,7 @@
   {
    "beat": 219.42691040039062,
    "lane": -1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -1366,7 +1366,7 @@
   {
    "beat": 230.55230712890625,
    "lane": 1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -1378,7 +1378,7 @@
   {
    "beat": 231.49241638183594,
    "lane": 1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -1396,7 +1396,7 @@
   {
    "beat": 233.98590087890625,
    "lane": 1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -1420,7 +1420,7 @@
   {
    "beat": 237.49542236328125,
    "lane": 1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -1432,7 +1432,7 @@
   {
    "beat": 239.34031677246094,
    "lane": 1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -1444,7 +1444,7 @@
   {
    "beat": 240.33131408691406,
    "lane": -1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -1468,7 +1468,7 @@
   {
    "beat": 243.1120147705078,
    "lane": -1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -1480,7 +1480,7 @@
   {
    "beat": 243.905517578125,
    "lane": -1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -1492,7 +1492,7 @@
   {
    "beat": 246.54132080078125,
    "lane": -1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -1504,7 +1504,7 @@
   {
    "beat": 247.11228942871094,
    "lane": -1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
@@ -1516,13 +1516,13 @@
   {
    "beat": 248.92698669433594,
    "lane": -1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
    "beat": 249.73171997070312,
    "lane": 1,
-   "type": "pink",
+   "type": "gold",
    "holdDuration": 0.0
   },
   {
